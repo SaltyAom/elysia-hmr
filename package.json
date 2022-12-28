@@ -1,0 +1,15 @@
+{
+  "name": "elysia-playground",
+  "version": "1.0.14",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bun run --hot src/index.ts"
+  },
+  "dependencies": {
+    "elysia": "^0.1.1"
+  },
+  "devDependencies": {
+    "bun-types": "^0.4.0"
+  },
+  "module": "src/index.js"
+}
